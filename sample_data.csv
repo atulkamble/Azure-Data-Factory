@@ -1,5 +1,11 @@
-EmployeeID,Name,Department,Salary
-101,John Doe,Engineering,60000
-102,Jane Smith,Marketing,55000
-103,Michael Brown,Sales,45000
-104,Linda White,HR,50000
+EmployeeID,Name,Department,Salary,HireDate,IsActive,ManagerID
+101,John Doe,Engineering,60000,2020-01-15,true,201
+102,Jane Smith,Marketing,55000,2021-03-22,true,202
+103,Michael Brown,Sales,45000,2019-11-08,true,203
+104,Linda White,HR,50000,2020-07-12,true,204
+105,Robert Johnson,Engineering,65000,2018-05-03,false,201
+106,Sarah Davis,Marketing,52000,2022-01-10,true,202
+107,David Wilson,Sales,48000,2021-09-14,true,203
+108,Emily Brown,HR,53000,2020-11-20,true,204
+109,James Taylor,Engineering,70000,2017-04-12,true,201
+110,Maria Garcia,Marketing,57000,2022-02-28,true,202
