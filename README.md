@@ -52,6 +52,7 @@ EmployeeID,Name,Department,Salary,HireDate,IsActive,ManagerID
      CREATE NONCLUSTERED INDEX IX_Employee_ManagerID ON Employee(ManagerID);
      ```
 4. Install **Azure Data Factory Studio** (available via the Azure Portal).
+5. https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#download-azure-data-studio
 
 ---
 
