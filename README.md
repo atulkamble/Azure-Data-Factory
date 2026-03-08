@@ -54,7 +54,7 @@ This will store exported data.
 
 ```bash
 az storage account create \
---name adfdemostorage123 \
+--name adfdemostorage986 \
 --resource-group adf-demo-rg \
 --location eastus \
 --sku Standard_LRS
