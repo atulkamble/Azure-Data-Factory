@@ -43,7 +43,7 @@ Destination file format: **CSV / Parquet**
 ```bash
 az group create \
 --name adf-demo-rg \
---location eastus
+--location westus2
 ```
 
 ---
