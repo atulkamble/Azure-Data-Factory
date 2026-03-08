@@ -66,7 +66,7 @@ az storage account create \
 
 ```bash
 az datafactory create \
---factory-name adf-demo-project \
+--factory-name adf-demo-project986 \
 --resource-group adf-demo-rg \
 --location eastus
 ```
